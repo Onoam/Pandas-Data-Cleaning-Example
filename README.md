@@ -1,1 +1,2 @@
-# Pandas-Data-Cleaning-Example
+# Pandas Data Cleaning Example
+This is an example project
